@@ -71,7 +71,7 @@ Three core sections:
 |--------------------|-------------|
 | ✅ Automation       | End-to-end scraping + data push to DB |
 | ✅ Data Modeling    | Relationships between fact and dimension tables |
-| ✅ DAX Measures     | Share %, YoY Growth, Rank Index, Organic Share |
+| ✅ DAX Measures     | Share %, Rank Index, Visual Calculation, Rank Buckets |
 | ✅ Bookmarks        | Toggle views across sections |
 | ✅ Drillthrough     | Product-level exploration |
 | ✅ Visuals          | Scatterplots, KPIs, stacked bars, small multiples |
