@@ -12,7 +12,7 @@ import pyodbc
 import urllib
 
 def database_push(data_frame, table_name):
-    server = 'DESKTOP-R5K275N\SQLEXPRESS'
+    server = 'DESKTOP\SQLEXPRESS'
     database = 'Yogabar'
     params = urllib.parse.quote_plus('Driver={SQL Server};SERVER='+server+';DATABASE='+database)
     engine = sa.create_engine(f"mssql+pyodbc:///?odbc_connect={params}", fast_executemany=False)
