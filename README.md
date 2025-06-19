@@ -8,7 +8,7 @@ This repository contains an end-to-end automated solution to track and analyze t
 
 - **Objective**: Track and benchmark the online visibility of Yogabar products across Amazon & Flipkart using relevant keywords.
 - **Tools Used**:
-  - 🐍 Python (Selenium, Xpath)
+  - 🐍 Python (Selenium, Pandas, SqlAlchemy)
   - 🧾 SQL Server / Azure Data Studio
   - 🧪 Power Query (Power BI)
   - 📊 Power BI (DAX, Visuals, Bookmarks, Drillthrough)
