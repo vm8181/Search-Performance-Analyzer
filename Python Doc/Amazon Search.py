@@ -56,8 +56,6 @@ for keyword in keywords:
                 sponser = 'Organic'                 
             date = datetime.datetime.now().strftime('%Y-%m-%d')
             img_elements = dom.xpath('(//div[@data-component-type="s-search-result"])[' + str(i+1) + ']//img[contains(@class, "s-image")]//@src')
-##            img_urls = [driver.find_element(By.XPATH, '.' + img_element.getroottree().getpath(img_element)).get_attribute('src') for img_element in img_elements]
-##            img = img_urls[0] if img_urls else ""
             try:
                 img = img_elements[0]
             except:
