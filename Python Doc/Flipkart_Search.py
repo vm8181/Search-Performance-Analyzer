@@ -22,9 +22,6 @@ def database_push(data_frame, table_name):
 
     return 'successfully data pushed'
 
-# Set up the Chrome driver and go to the Amazon search page
-#driver = webdriver.Chrome(executable_path=r"E:\chromedriver.exe")
-#driver.get("https://www.flipkart.com")
 chrome_driver_path = r"E:\chromedriver.exe"
 chrome_service = ChromeService(executable_path=chrome_driver_path)
 chrome_options = webdriver.ChromeOptions()
@@ -63,8 +60,6 @@ for keyword in keywords:
             date = datetime.datetime.now().strftime('%Y-%m-%d')
             img_elements = dom.xpath('(//div[@data-id])[' + str(i+1) + ']//div[@class = "CXW8mj _21_khk"]/img/@src') \
                            or dom.xpath('(//div[@data-id])[' + str(i+1) + ']//div[@class = "CXW8mj"]/img/@src')
-#            img_urls = [driver.find_element(By.XPATH, '.' + img_element.getroottree().getpath(img_element)).get_attribute('src') for img_element in img_elements]
-#            img = img_urls[0] if img_urls else ""
             try:
                 img = img_elements[0]
             except:
