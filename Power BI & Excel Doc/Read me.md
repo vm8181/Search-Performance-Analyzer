@@ -1,4 +1,4 @@
-# E-Commerce Brand Performance Dashboard - Excel Guide
+# E-Commerce Brand Performance Dashboard - Analyze in Excel
 
 ## 📊 Overview:
 This Excel dashboard compares Brand vs Competitor performance on Amazon and Flipkart platforms using metrics like share %, product ranks, and placements across months. It includes dynamic filters and slicers for easy navigation.
