@@ -52,16 +52,14 @@ Three core sections:
 - Platform-specific comparison (Amazon vs Flipkart)
 - Share by placement group (top 10, 11–20, etc.)
 
-![image](https://github.com/user-attachments/assets/d7c0f07c-f6df-4fbc-af1a-4e206d33de5f)
-
+![image](https://github.com/user-attachments/assets/9a894b64-e7ae-4658-8655-28061ac69ee5)
 
 #### 📦 **Product Details**
 - Product-level insights with placement history
 - Price vs rank correlation
 - Drillthrough to ASIN-level performance
 
-![image](https://github.com/user-attachments/assets/45277074-32d1-4222-8913-9f8ebe42be31)
-
+![image](https://github.com/user-attachments/assets/6bee1df8-4945-46eb-97aa-f05e8dd56de2)
 
 ---
 
