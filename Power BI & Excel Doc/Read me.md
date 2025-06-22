@@ -17,6 +17,8 @@ This Excel dashboard compares Brand vs Competitor performance on Amazon and Flip
   - `Platform` (Amazon, Flipkart)
   - `Placement Bin` (e.g., 1-10, 11-20...)
 
+![image](https://github.com/user-attachments/assets/14125a9c-d5e8-4107-a575-5d2910ef82a5)
+
 ---
 
 ### 2️⃣ `Brand-Wise Monthly Share`
@@ -27,6 +29,8 @@ This Excel dashboard compares Brand vs Competitor performance on Amazon and Flip
     - `Keyword`
     - `Placement Bin`
 
+![image](https://github.com/user-attachments/assets/be41ba47-1001-4c75-9eed-c544530efc89)
+
 ---
 
 ### 3️⃣ `Brand vs Competitor by Placement`
@@ -35,6 +39,8 @@ This Excel dashboard compares Brand vs Competitor performance on Amazon and Flip
 - Use slicer:
   - `Keyword`
 - Useful to understand **visibility by position**
+
+![image](https://github.com/user-attachments/assets/9ecd2ec2-460c-496d-8944-59ed2303ed5e)
 
 ---
 
@@ -50,6 +56,9 @@ This Excel dashboard compares Brand vs Competitor performance on Amazon and Flip
   - `Keyword` (dropdown)
   - `Date` (calendar input or manual)
   - `Placement Bin` (1-10)
+
+  ![image](https://github.com/user-attachments/assets/3abb1494-2bdc-4624-ba8d-134ee71f017d)
+
 
 ---
 
@@ -94,12 +103,4 @@ This Excel dashboard compares Brand vs Competitor performance on Amazon and Flip
 3. View trends across months in **Sheet 1 & 2**.
 4. Dive into product-level data using **Sheet 4** with date & keyword filter.
 5. Compare placements and visibility in **Sheet 3**.
-
----
-
-## 📌 SUGGESTIONS
-
-- Add timeline slicer for date if using Power Pivot
-- Add brand selector dropdown for focused brand-specific summaries
-- Export to Power BI for advanced interactivity if required
 
