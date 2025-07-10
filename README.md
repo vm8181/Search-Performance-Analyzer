@@ -58,7 +58,7 @@ Three core sections:
 - Price vs rank correlation
 - Drillthrough to ASIN-level performance
 
-![image](https://github.com/user-attachments/assets/9727ade4-d428-4a66-af98-592b55542c2a)
+![image](https://github.com/user-attachments/assets/69f09bc4-4a2f-4098-b504-c966016aba02)
 
 ---
 
