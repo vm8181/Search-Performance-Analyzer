@@ -89,5 +89,12 @@ Three core sections:
 
 - 💰 **Increase Sponsored Campaigns** for generic and competitive keywords with weak share.
 - 🧠 **Improve SEO** metadata on Amazon listings to rank organically for broader terms.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vikashm1996)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B0082?logo=internet-explorer)](https://vikashmishra.co.in/)
 - 🎯 **Monitor price vs rank weekly** to optimize product pricing for better placement.
 - 🧪 **A/B test creatives** on Flipkart, where competition is less saturated but Yogabar trails.
