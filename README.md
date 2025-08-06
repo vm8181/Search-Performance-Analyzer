@@ -1,6 +1,6 @@
 # 🔍 Know Your Share of Search – Power BI Dashboard
 
-This repository contains an end-to-end automated solution to track and analyze the **Share of Search performance** of the *Yogabar* brand across Amazon and Flipkart. The project automates keyword performance extraction, database integration, data cleaning, and builds an interactive Power BI dashboard to generate insights on brand visibility, product performance, and competitive benchmarking.
+This repository contains an end-to-end automated solution to track and analyze the **Share of Search performance** of the *Yogabar* brand across Amazon and Flipkart. The project automates keyword performance data extraction, database integration, data cleaning, and builds an interactive Power BI dashboard to generate insights on brand visibility, product performance, and competitive benchmarking.
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains an end-to-end automated solution to track and analyze t
   - 🐍 Python (Selenium, Pandas, SqlAlchemy)
   - 🧾 SQL Server / Azure Data Studio
   - 🧪 Power Query (Power BI)
-  - 📊 Power BI (DAX, Visuals, Bookmarks, Drillthrough)
+  - 📊 Power BI (DAX, Visuals, Bookmarks, Drillthrough, Parameters)
   - 🟩Micorosoft Excel(Pivot Tables)
   - 🛠Tabular Editor, Dax Studio, Measure Killer.
 
