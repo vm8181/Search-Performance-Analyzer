@@ -13,6 +13,7 @@ This repository contains an end-to-end automated solution to track and analyze t
   - 🧪 Power Query (Power BI)
   - 📊 Power BI (DAX, Visuals, Bookmarks, Drillthrough)
   - 🟩Micorosoft Excel(Pivot Tables)
+  - 🛠Tabular Editor, Dax Studio, Measure Killer.
 
 ---
 
