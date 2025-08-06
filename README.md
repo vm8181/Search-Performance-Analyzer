@@ -72,7 +72,7 @@ Three core sections:
 | ✅ Bookmarks        | Toggle views across sections |
 | ✅ Drillthrough     | Product-level exploration |
 | ✅ Visuals          | Scatterplots, KPIs, stacked bars, small multiples |
-| ✅ Segmentation     | Generic vs Branded vs Competitor terms |
+| ✅ Segmentation     | Keyword Type, Brand vs Competitors, Placement Types, Placement Buckets, Platforms, Time Period|
 
 ---
 
