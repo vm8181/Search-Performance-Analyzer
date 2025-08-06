@@ -44,21 +44,21 @@ Three core sections:
 - Trends in brand vs competitor search visibility
 - Organic vs Sponsored split
 
-![image](https://github.com/user-attachments/assets/12206002-b589-4126-9038-04e2017237e1)
+<img width="1348" height="733" alt="image" src="https://github.com/user-attachments/assets/61d50daa-8ace-4f96-83bd-d19333d3f808" />
 
 #### 🥊 **Competitive Benchmarking**
 - Brand share vs key competitors (Kellogg’s, RiteBite, etc.)
 - Platform-specific comparison (Amazon vs Flipkart)
 - Share by placement group (top 10, 11–20, etc.)
 
-![image](https://github.com/user-attachments/assets/08295ae2-0c24-4ae2-8049-06e127d9afd9)
+<img width="1227" height="734" alt="image" src="https://github.com/user-attachments/assets/eb780d30-8929-4043-9758-609c2dbe0c22" />
 
 #### 📦 **Product Details**
 - Product-level insights with placement history
 - Price vs rank correlation
 - Drillthrough to ASIN-level performance
 
-![image](https://github.com/user-attachments/assets/69f09bc4-4a2f-4098-b504-c966016aba02)
+<img width="1351" height="732" alt="image" src="https://github.com/user-attachments/assets/1d87dc4f-ac94-461a-a009-fcabae0129fc" />
 
 ---
 
